@@ -1,0 +1,23 @@
+//
+//  Socket.io-Demo.pch
+//  Socket.io-Demo
+//
+//  Created by Wilson on 2017/12/8.
+//  Copyright © 2017年 Wilson. All rights reserved.
+//
+
+#ifndef Socket_io_Demo_pch
+#define Socket_io_Demo_pch
+
+@import GoogleMaps;
+#import "SocketIO.h"
+#import "SocketIOPacket.h"
+#import "NetworkNoticeView.h"
+#import "UIColor+globalColorSetting.h"
+#import "AppViewController.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Socket_io_Demo_pch */
